@@ -17,5 +17,5 @@ geopy
 5. Look at the results
 6. Plug the data into the formula
 7. Interpret the results
-8. Do this for each of the hypothesis' 
+8. Do this for each of the hypotheses
 
